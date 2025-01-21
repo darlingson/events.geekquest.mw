@@ -1,7 +1,7 @@
 # Events Management System
 
 ## Project URL
-[GitHub Repository](https://github.com/darlingson/events.geekquest.mw.git)
+[GitHub Repository](https://github.com/geekquest/events.geekquest.mw.git)
 
 ---
 

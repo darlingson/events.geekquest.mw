@@ -165,7 +165,7 @@ git --version
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/darlingson/events.geekquest.mw.git
+git clone [https://github.com/geekquest/events.geekquest.mw.git](https://github.com/geekquest/events.geekquest.mw.git)
 cd events.geekquest.mw
 ```
 
